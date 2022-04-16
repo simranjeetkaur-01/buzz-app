@@ -14,7 +14,7 @@ const AboutUser = () => {
             <div className="profile-info">
                 <div className='profileViews'>
                     <h5>234</h5>
-                    <div>Profile Views..</div>
+                    <div>Profile Views</div>
                 </div>
                 <div className='post'>
                 <h5>10</h5>
