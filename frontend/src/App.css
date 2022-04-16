@@ -1,0 +1,53 @@
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.login-container {
+  display: flex;
+  background-color: #FBFBFB;
+  padding: 30px 30px;
+}
+
+.homePage {
+  margin-right: 20px;
+  background-color: #FFFFFF;
+}
+
+.accountPage {
+  background-color: #FFFFFF;
+}
+
+.signIn-btn {
+  padding: 14px 46px;
+  border-radius: 40px;
+  background-color: #9816F3;
+  border: 0px;
+  color: white;
+}
+
+.username-input,
+.password-input {
+  margin-bottom: 28px;
+  border: none;
+  border-bottom: 2px solid rgb(215, 213, 221);
+  color: red;
+  padding: 6px 12px;
+}
+
+.password-handle {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .checkbox-container{
+  margin-right:12px;
+} */
